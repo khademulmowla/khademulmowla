@@ -78,7 +78,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<h2 align="center">Github Stats</h2>
 
 ###
 
