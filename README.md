@@ -1,5 +1,5 @@
 <div align="center">
-  ![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/khademulmowla/khademulmowla/refs/heads/main/banner_aupu.png)
+  <img src="https://raw.githubusercontent.com/khademulmowla/khademulmowla/refs/heads/main/banner_aupu.png"  />
 </div>
 
 ###
