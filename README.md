@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  ![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/khademulmowla/khademulmowla/refs/heads/main/banner_aupu.png)
 </div>
 
 ###
