@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Next Js<br>🎯 Goals: Making the web more useful for everyone.<br>🎲 Fun fact: I am Coffee addict</p>
+<p align="left">📚 I'm currently learning Next Js<br>🎯 Goals: Making the web more useful for everyone.<br>🎲 Fun fact: I am a Coffee addict</p>
 
 ###
 
