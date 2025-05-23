@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/khademulmowla/khademulmowla/refs/heads/main/banner_aupu.png"  />
+  <img src="https://raw.githubusercontent.com/khademulmowla/khademulmowla/refs/heads/main/banner2.png"  />
 </div>
 
 ###
